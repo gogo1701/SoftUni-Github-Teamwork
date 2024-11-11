@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 name = Ivailo
 size = 8 sideways
 email = ivailokirilov914@gmail.com
+=======
+name = Georgi
+size = infinite
+email = gogo170109@gmail.com
+>>>>>>> 6c4817fc70dceac39296931aef26ca8779685993
